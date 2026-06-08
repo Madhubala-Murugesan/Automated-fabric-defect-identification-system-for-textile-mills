@@ -1,6 +1,6 @@
 # Batch 3 — Automated Fabric Defect Identification System for Textile Mills
 
-> L&T EduTech Internship | Batch 3 | Computer Vision Project
+> L&T EduTech Internship | Batch 3 
 
 ---
 
